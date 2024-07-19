@@ -6,9 +6,8 @@ app = Flask(__name__)
 
 # 색상 코드 정의
 color_codes = {
-    'grey': '#A7C7E7',
-    'blue': '#30336b',
-    'beige': '#F5F5DC'
+    'darkslategrey': '#2F4F4F',
+    'blue': '#30336b'
 }
 
 # 환경 변수에서 색상 가져오기
